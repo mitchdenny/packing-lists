@@ -75,8 +75,8 @@ Event Day 4
 * Boots (reuse)
 
 
-Event Day 5
------------
+Travel Day (Returning)
+----------------------
 * Shirt
 * Shorts
 * Jocks
